@@ -31,3 +31,5 @@ build
 *.ipr
 *~
 *.swp
+
+repo-local/
